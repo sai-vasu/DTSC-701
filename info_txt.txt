@@ -1,0 +1,641 @@
+
+                              
+                                Ph.D., Computer Science, Columbia University, USA, 2020
+                              
+                            
+
+
+                               Email: marshall.ball at cs.nyu.edu  
+                               Office: WWH 420  
+                               Ext: 8-3131  
+                               Foundations of cryptography, complexity theory 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Tel-Aviv University, Israel, 2015
+                              
+                            
+
+
+                              
+                              
+                              
+                               Foundations of cryptography, cryptographic proof systems, quantum cryptography 
+                            
+
+
+Note: Starting September 2024
+                            
+
+
+                              
+                                Ph.D., Computer Science, University of Cambridge, UK, 2012
+                              
+                            
+
+
+                               Email: jcb at cs.nyu.edu  
+                               Office: 60 Fifth Ave 404  
+                               Ext: 8-3021  
+                               Computer security, applied cryptography, cryptocurrencies, security economics 
+                            
+
+
+                              
+                                Ph.D., Applied Mathematics, École Polytechnique, France, 2013
+                              
+                            
+
+
+                               Email: bruna at cs.nyu.edu  
+                               Office: 60 Fifth Ave 612  
+                               Ext: 8-3162  
+                               Machine learning, high-dimensional statistics, signal processing 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Stanford University, USA, 2023
+                              
+                            
+
+
+                               Email: benedikt at cs.nyu.edu  
+                               Office: 60 Fifth Ave 303  
+                              
+                               Applied Cryptography, Blockchains, Zero-Knowledge Proofs, Consensus 
+                            
+
+
+Note: Starting Fall 2023
+                            
+
+
+                              
+                                Ph.D., Computer Science, Aalto University School of Science, Finland, 2014
+                              
+                            
+
+
+                               Email: kyunghyun.cho at nyu.edu  
+                               Office: 60 Fifth Ave 616  
+                               Ext: 8-3366  
+                               Machine learning, natural languages, machine translation, artificial intelligence 
+                            
+
+
+                              
+                                Ph.D., Computer Science, New York University, USA, 2008
+                              
+                            
+
+
+                               Email: sumit at cs.nyu.edu  
+                               Office: 60 Fifth Ave 501  
+                               Ext: 8-3376  
+                               Machine Learning, Healthcare, Representation Learning, Computer Vision, Medical Imaging, Natural Language Processing 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Cornell University, USA, 1982
+                              
+                            
+
+
+                               Email: cole at cs.nyu.edu  
+                               Office: WWH 417  
+                               Ext: 8-3119  
+                               Algorithmics, algorithmic economics and game theory, algorithms in nature and society. 
+                            
+
+
+                              
+                                Doctor ès Sciences, Mathematics, University Joseph Fourier, Grenoble, France, 1978
+                              
+                            
+
+
+                               Email: pcousot at cs.nyu.edu  
+                               Office: 60 Fifth Ave 400  
+                               Ext: 8-3519  
+                               Abstract interpretation, semantics, verification, and static analysis. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Yale University, USA, 1984
+                              
+                            
+
+
+                               Email: davise at cs.nyu.edu  
+                               Office: WWH 329  
+                               Ext: 8-3123  
+                               Artificial intelligence, knowledge representation, and automated commonsense reasoning. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Massachusetts Institute of Technology, USA, 2000
+                              
+                            
+
+
+                               Email: dodis at cs.nyu.edu  
+                               Office: WWH 413  
+                               Ext: 8-3084  
+                               Cryptography, security, information theory, complexity theory, algorithms. 
+                            
+
+
+                              
+                                D. Phil., Electrical Engineering, University of Oxford, UK, 2005
+                              
+                            
+
+
+                               Email: fergus at cs.nyu.edu  
+                               Office: 60 Fifth Ave 514  
+                               Ext: 8-3353  
+                               Computer vision and computational photography. 
+                            
+
+
+                              
+                                Ph.D., Robotics, Carnegie Mellon University, The Robotics Institute, USA, 2016
+                              
+                            
+
+
+                               Email: david.fouhey at nyu.edu
+david.fouhey at nyu.edu  
+                               Office: 60 Fifth Ave 522  
+                              
+                               Computer vision, machine learning, deep learning, AI for science, robotics 
+                            
+
+
+                              
+                                Ph.D., Physics and Artificial Intelligence, Massachusetts Institute of Technology, USA, 1990
+                              
+                            
+
+
+                               Email: dg1 at nyu.edu  
+                               Office: WWH 418  
+                               Ext: 8-3235  
+                               Computer Vision and Learning, with recent interest in the use of Group and Quantum methods. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Yale University, USA, 1988
+                              
+                            
+
+
+                               Email: goldberg at cs.nyu.edu  
+                               Office: WWH 401  
+                               Ext: 8-3495  
+                               Design and implementation of programming languages, compiler verification, and compiler optimizations. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, University of California, Berkeley, USA, 2000
+                              
+                            
+
+
+                              
+                              
+                              
+                               Approximation and online algorithms, beyond worst-case analysis, metric embeddings 
+                            
+
+
+Note: Starting January 2024
+                            
+
+
+                              
+                                PhD, Computer Science, University of Maryland, College Park, USA, 2016
+                              
+                            
+
+
+                               Email: hehe at cs.nyu.edu  
+                               Office: 60 Fifth Ave 605  
+                               Ext: 8-3363  
+                               Natural language processing, machine learning 
+                            
+
+
+                              
+                                PhD, Mathematics, University of California, Berkeley, USA, 2001; PhD, Computer Science, École Nationale Supérieure des Télécommunications, Paris, France, 2001
+                              
+                            
+
+
+                               Email: kempe at nyu.edu  
+                               Office: 60 Fifth Ave 620  
+                               Ext: 8-3191  
+                               Data Science, Machine Learning, Quantum Computing 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Princeton University, USA, 2003
+                              
+                            
+
+
+                               Email: khot at cs.nyu.edu  
+                               Office: WWH 416  
+                               Ext: 8-4859  
+                               Algorithms, computational complexity, and computational intractability. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Universite Pierre et Marie Curie, France, 1987
+                              
+                            
+
+
+                               Email: yann at cs.nyu.edu  
+                               Office: 60 Fifth Ave 516  
+                               Ext: 8-3283  
+                               Machine learning, computer vision, autonomous robotics, computational neuroscience, computational statistics, computational economics, hardware architectures for vision, digital libraries, and data compression. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Massachusetts Institute of Technology, USA, 2005
+                              
+                            
+
+
+                               Email: jinyang at cs.nyu.edu  
+                               Office: 60 Fifth Ave 410  
+                               Ext: 8-3098  
+                               Distributed systems, operating systems, wireless networks. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Carnegie Mellon University, USA, 1985
+                              
+                            
+
+
+                               Email: mishra at cs.nyu.edu  
+                               Office: WWH 405  
+                               Ext: 8-3464  
+                               Bioinformatics, algorithmic algebra, robotics, computational biology, and computational finance. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, University of Paris 7, France, 1993
+                              
+                            
+
+
+                               Email: mohri at cs.nyu.edu  
+                               Office: WWH 701  
+                               Ext: 8-3200  
+                               Machine learning, computational biology, text and speech processing, algorithms, and theory. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Carnegie Mellon University, USA, 2006
+                              
+                            
+
+
+                               Email: daniel.neill at nyu.edu  
+                               Office: 60 Fifth Ave 304  
+                               Ext: x8-3295  
+                               machine learning; event and pattern detection; applications for societal good; public health, safety, and security; algorithmic fairness; urban systems 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Stanford University, USA, 1979
+                              
+                            
+
+
+                               Email: overton at cs.nyu.edu  
+                               Office: WWH 429  
+                               Ext: 8-3121  
+                               Numerical analysis, linear algebra, optimization, and mathematical programming. 
+                            
+
+
+                              
+                                Ph.D., University of California, Berkeley, USA, 2017
+                              
+                            
+
+
+                               Email: apanda at cs.nyu.edu  
+                               Office: 60 Fifth Ave 405  
+                               Ext: 8-3247  
+                               Distributed systems, systems, networking 
+                            
+
+
+                              
+                                Ph.D., Computer Science, University of Genoa, Italy, 2012
+                              
+                            
+
+
+                               Email: panozzo at nyu.edu  
+                               Office: 60 Fifth Ave 504  
+                               Ext: 8-3208  
+                               Geometry Processing, Computer Graphics and Digital Fabrication 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Massachusetts Institute of Technology, USA, 2018
+                              
+                            
+
+
+                               Email: sp3217 at nyu.edu  
+                               Office: 60 Fifth Ave 316  
+                              
+                               Security, privacy, transparency, cryptography, technology law, technology policy 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Technische Universität München, Germany, 2013
+                              
+                            
+
+
+                               Email: pehersto at cims.nyu.edu  
+                               Office: WWH 421  
+                               Ext: 8-3297  
+                               Computational statistics, Bayesian inference, model reduction, high-dimensional approximation, machine learning, numerical analysis, numerical linear algebra 
+                            
+
+
+                              
+                                Ph.D., Computer Science, New York University, USA, 1986
+                              
+                            
+
+
+                               Email: perlin at cs.nyu.edu  
+                               Office: 60 Fifth Ave 300  
+                               Ext: 8-3386  
+                               Computer graphics, simulation, computer/human interface, multimedia, and animation. 
+                            
+
+
+                              
+                                Ph.D., Robotics, Carnegie Mellon University, USA, 2019
+                              
+                            
+
+
+                               Email: lerrel at cs.nyu.edu  
+                               Office: 60 Fifth Ave 505  
+                               Ext: 8-3514  
+                               Robot Learning, Robotic Manipulation, Reinforcement Learning, Machine Learning. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Princeton University, USA, 2017
+                              
+                            
+
+
+                               Email: rajeshr at cs.nyu.edu  
+                               Office: 60 Fifth Ave 503  
+                               Ext: 8-3394  
+                               Machine Learning, Healthcare, Probabilistic and Causal Inference. 
+                            
+
+
+                              
+                                Ph.D., Electrical Engineering, Purdue University, USA, 1987
+                              
+                            
+
+
+                               Email: tsr at nyu.edu  
+                               Office: 60 Fifth Ave 312  
+                               Ext: 8-3407  
+                               Wireless communication systems and networks, compressed sensing for wireless and video applications, RF/Analog circuit design, antennas and propagation, wireless for medical applications. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Tel Aviv University, Israel, 2001
+                              
+                            
+
+
+                               Email: regev at cs.nyu.edu  
+                               Office: WWH 303  
+                               Ext: 8-3771  
+                               Lattice-based cryptography, quantum computation, and mathematical aspects of theoretical computer science. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, University of Toronto, Canada, 2021
+                              
+                            
+
+
+                               Email: mengye at cs.nyu.edu  
+                               Office: 60 Fifth Ave 508  
+                               Ext: 8-3369  
+                               Machine learning, deep learning, computer vision, artificial intelligence 
+                            
+
+
+                              
+                                Ph.D., Applied Mathematics, Harvard University, USA, 1984
+                              
+                            
+
+
+                               Email: shasha at cs.nyu.edu  
+                               Office: 60 Fifth Ave 414  
+                               Ext: 8-3086  
+                               Network inference and protein design for biology, software for searching databases of trees and graphs, outsourcing data while preserving privacy, finding patterns in time series, DNA computing, and puzzles. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Stanford University, USA, 1983
+                              
+                            
+
+
+                               Email: siegel at cs.nyu.edu  
+                               Office: WWH 330  
+                               Ext: 8-3122  
+                               VLSI design, analysis of algorithms, lower bounds, parallel algorithms, probability, and combinatorial geometry. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Massachusetts Institute of Technology, USA, 2017
+                              
+                            
+
+
+                               Email: anirudh at cs.nyu.edu  
+                               Office: 60 Fifth Ave 408  
+                               Ext: 8-3320  
+                               Programmable routers, computer networks, hardware and software for computer systems. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, University of California at Berkeley, USA, 2005
+                              
+                            
+
+
+                               Email: lakshmi at cs.nyu.edu  
+                               Office: 60 Fifth Ave 416  
+                               Ext: 8-3485  
+                               Networks, distributed systems, computing for development . 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Carnegie Mellon University, 2019
+                              
+                            
+
+
+                               Email: jt4767 at nyu.edu  
+                               Office: 60 Fifth Ave 401  
+                               Ext: 8-3294  
+                               Programming languages, formal verification, systems 
+                            
+
+
+                              
+                                Ph.D., Computer Science, University of California, San Diego, USA, 2013
+                              
+                            
+
+
+                               Email: mjt10041 at nyu.edu  
+                               Office: 60 Fifth Ave 310  
+                              
+                               Deep Learning Theory, Statistical Learning Theory, Approximation, Optimization 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Massachusetts Institute of Technology, USA, 2008
+                              
+                            
+
+
+                               Email: mwalfish at cs.nyu.edu  
+                               Office: 60 Fifth Ave 412  
+                               Ext: 8-3244  
+                               Systems, security, and networks. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, University of Freiburg, Germany, 2009
+                              
+                            
+
+
+                               Email: wies at cs.nyu.edu  
+                               Office: 60 Fifth Ave 403  
+                               Ext: 8-3293  
+                               Program analysis and verification; automated deduction; concurrent software; software productivity 
+                            
+
+
+                              
+                                Ph.D., Machine Learning, University of Cambridge, UK, 2014
+                              
+                            
+
+
+                               Email: andrewgw at cims.nyu.edu  
+                               Office: 60 Fifth Ave 604  
+                               Ext: 8-3365  
+                               Machine learning, Bayesian statistics, numerical linear algebra. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, University of California, San Diego, USA, 2018
+                              
+                            
+
+
+                               Email: saining.xie at nyu.edu  
+                               Office: 60 Fifth Ave 518  
+                               Ext: 8-3351  
+                               Computer Vision, Machine Learning, Deep Learning 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Yale University, USA, 1979
+                              
+                            
+
+
+                               Email: yap at cs.nyu.edu  
+                               Office: WWH 301  
+                               Ext: 8-3115  
+                               Computational geometry, computer algebra, visualization, algorithmic robotics, complexity theory, and numerical robustness issues and exact computation. 
+                            
+
+
+                              
+                                Ph.D., Computer Science, Harvard, USA, 2021
+                              
+                            
+
+
+                               Email: sai.zhang at nyu.edu  
+                              
+                              
+                               Efficient deep learning, AI system design 
+                            
+
+
+Note: Starting September 2024
+                            
+
+
+                              
+                                Ph.D., Computer Science, California Institute of Technology, USA, 1997
+                              
+                            
+
+
+                               Email: dzorin at cs.nyu.edu  
+                               Office: 60 Fifth Ave 512  
+                               Ext: 8-3405  
+                               Computer graphics, geometric modeling, subdivision surfaces, multiresolution surface representations, fluid and solid simulation, and perceptually based methods for computer graphics. 
+                            
+
